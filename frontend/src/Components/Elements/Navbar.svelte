@@ -1,6 +1,6 @@
 <div id="navbarWrapper">
     <a href="">Join</a>
-    <a href="">Register / Login</a>
+    <a href="/register">Register / Login</a>
 </div>
 
 <style lang="scss">
